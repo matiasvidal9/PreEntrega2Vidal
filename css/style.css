@@ -50,7 +50,12 @@ footer{
     margin-right: 20px;
     margin-top: 10px;
 }
-
+.color_violeta{
+    color: yellow;
+}
+.color_violeta:hover{
+    color: blueviolet;
+}
 /* BIBLIOGRAFIA-CARDS */
 .color_fondo{
     background-color: blueviolet;
